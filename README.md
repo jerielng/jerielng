@@ -4,4 +4,12 @@ I work daily in Swift, Objective-C, Kotlin, and Java as a cross-platform mobile 
 
 <p align="center">
     <img src="https://github.com/jerielng/jerielng/blob/master/Assets/jeriel-portrait.jpg" width="65%" height="65%">
+    <br><br>
+    <a href="https://www.linkedin.com/in/jerielng/">
+        <img src="https://github.com/jerielng/jerielng/blob/master/Assets/linkedin.png" width="60" height="60" style="margin: 500;">
+    </a>
+    &emsp;&emsp;&emsp;&emsp;
+    <a href="https://twitter.com/jerielng">
+        <img src="https://github.com/jerielng/jerielng/blob/master/Assets/twitter.png" width="60" height="60">
+    </a>
 </p>
