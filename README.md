@@ -12,7 +12,7 @@
 
 
 <p align='center'>
-    <img src="https://github.com/jerielng/jerielng/blob/master/Assets/header-banner.png">    
+    <img src="https://github.com/jerielng/jerielng/blob/master/Assets/banner.png">    
 </p>
 
 I work daily in Swift, Kotlin, and Dart as a cross-platform mobile developer! I love all things code, namely with learning new skills and enabling others to do so. On my profile, you'll find a collection of my personal side projects, which reflect what I've been learning both inside and outside of my day-to-day.
