@@ -15,7 +15,9 @@
     <img src="https://github.com/jerielng/jerielng/blob/master/Assets/banner.png">    
 </p>
 
-I work daily in Swift, Kotlin, and Dart as a cross-platform mobile developer! I love all things code, namely with learning new skills and enabling others to do so. On my profile, you'll find a collection of my personal side projects, which reflect what I've been learning both inside and outside of my day-to-day.
+Many people believe you have to sacrifice substance for style—or vice versa. While it’s hard to achieve, I feel it is possible to find the middle, where function meets flair.
+
+I work daily in Swift, Kotlin, and Dart as a cross-platform mobile developer. Simply put, I love all things code and design, namely with learning new skills and enabling others to do so.
 
 Feel free to check out these developer resources I am actively building:
 * [Cross-Platform Mobile Development Guide](https://github.com/jerielng/mobile-guide)
