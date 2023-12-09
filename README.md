@@ -2,7 +2,7 @@
 
 <p align='right'>
     <a href="https://twitter.com/jerielng">
-        <img src="https://github.com/jerielng/jerielng/blob/master/Assets/twitter.png" width="30" height="30">
+        <img src="https://github.com/jerielng/jerielng/blob/master/Assets/x-logo.png" width="30" height="30">
     </a>
     &emsp;
     <a href="https://www.linkedin.com/in/jerielng/">
@@ -12,17 +12,15 @@
 
 
 <p align='center'>
-    <img src="https://github.com/jerielng/jerielng/blob/master/Assets/banner.png">    
+    <img src="https://github.com/jerielng/jerielng/blob/master/Assets/banner.png">
 </p>
 
-Many people believe you have to sacrifice substance for style—or vice versa. While it’s hard to achieve, I feel it is possible to find the middle, where function meets flair.
+I specialize as a cross-platform mobile developer, fluent in Swift and various other languages and stacks. My passion involves continuously learning new skills in coding and design, and I love helping others do the same.
 
-I work daily in Swift, Kotlin, and Dart as a cross-platform mobile developer. Simply put, I love all things code and design, namely with learning new skills and enabling others to do so.
-
-Feel free to check out these developer resources I am actively building:
+Check out these developer resources I'm actively working on:
 * [Cross-Platform Mobile Development Guide](https://github.com/jerielng/mobile-guide)
 * [Personal tech talk presentations](https://github.com/jerielng/presentations)
 
 <p align="center">
-    <img src="https://github.com/jerielng/jerielng/blob/master/Assets/jeriel-portrait.png" width="50%" height="50%">    
+    <img src="https://github.com/jerielng/jerielng/blob/master/Assets/jeriel-portrait.png" width="50%" height="50%">
 </p>
