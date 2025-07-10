@@ -1,16 +1,4 @@
 ## Hi, I'm Jeriel!
-
-<p align='right'>
-    <a href="https://twitter.com/jerielng">
-        <img src="https://github.com/jerielng/jerielng/blob/master/Assets/x-logo.png" width="30" height="30">
-    </a>
-    &emsp;
-    <a href="https://www.linkedin.com/in/jerielng/">
-        <img src="https://github.com/jerielng/jerielng/blob/master/Assets/linkedin.png" width="30" height="30" style="margin: 500;">
-    </a>
-</p>
-
-
 <p align='center'>
     <img src="https://github.com/jerielng/jerielng/blob/master/Assets/banner.png">
 </p>
@@ -22,5 +10,5 @@ Check out these developer resources I'm actively working on:
 * [Personal tech talk presentations](https://github.com/jerielng/presentations)
 
 <p align="center">
-    <img src="https://github.com/jerielng/jerielng/blob/master/Assets/jeriel-portrait.png" width="50%" height="50%">
+    <img src="https://github.com/jerielng/jerielng/blob/master/Assets/jeriel-portrait.png" width="40%">
 </p>
